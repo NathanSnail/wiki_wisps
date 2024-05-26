@@ -1,0 +1,656 @@
+|[[File:Spell_swarm_firebug.png|40x40px|link=Summon Firebug Swarm]] [[Summon Firebug Swarm]]
+|750||950||850
+|18|| || ||
+|
+|0.5%
+|-
+|[[File:Spell_swarm_wasp.png|40x50px|link=Summon Wasp Swarm]] [[Summon Wasp Swarm]]
+|1000||1200||1100
+|24|| || ||
+|
+|0.5%
+|-
+|[[File:Spell_friend_fly.png|40x40px|link=Summon Friendly Fly]] [[Summon Friendly Fly]]
+|1700||1900|| 1800
+|41|| || ||
+|
+|0.5%
+|-
+| [[File:Spell pollen.png|40x40px|link=pollen]] [[Pollen]]
+|650||850||750
+|16|| || ||
+|
+|0.5%
+|-
+|[[File:Spell duck 2.png|40x40px]] [[Flock of Ducks]]
+|200
+|400
+|300
+|5
+|
+|
+|
+|
+|0.5%
+|-
+| [[File:Spell_ball_lightning.png|40x40px|link=Ball Lightning]] [[Ball Lightning]]
+|10 ||50||30
+| || ||1||
+|
+|2.44%
+|-
+|[[File:Spell glue shot.png|40x40px]] [[Glue Ball]]
+|20
+|60
+|40
+|1
+|
+|
+|
+|
+|2.44%
+|-
+|[[File:Spell_spitter_purple.png|40x40px|link=Giant Spitter Bolt]] [[Giant Spitter Bolt]]
+|22||47||35
+| || ||1||
+|
+|5%
+|-
+|[[File:Spell_spitter_green.png|40x40px|link=Large Spitter Bolt]] [[Large Spitter Bolt]]
+|18||42||30
+| || ||1||
+|
+|5%
+|- 
+|[[File:Spell_spitter.png|40x40px|link=Spitter Bolt]] [[Spitter Bolt]]
+|18||32||25
+| || ||1||
+|
+| 6.66%
+|-
+|[[File:Spell_laser.png|40x40px|link=Concentrated Light]] [[Concentrated Light]]
+|23||37||30
+| || ||1||
+|
+|6.66%
+|-
+|[[File:Spell_heavy_bullet.png|40x40px|link=Magic Bolt]] [[Magic Bolt]]
+|23||37||30
+| || ||1||
+|
+|6.66%
+|-
+| [[File:Spell_air_bullet.png|40x40px|link=Burst of Air]] [[Burst of Air]]
+|33||47||40
+|1|| || ||
+|
+|6.66%
+|-
+|[[File:Spell_antiheal.png|40x40px|link=Deadly Heal]] [[Deadly Heal]]
+|33
+|47
+|40
+|1
+|
+|
+|
+|
+|6.66%
+|-
+|[[File:Spell_teleport_projectile_closer.png|40x40px|link=Homebringer Teleport Bolt]] [[Homebringer Teleport Bolt]]
+|33||47||40
+|1|| || ||
+|
+|6.66%
+|-
+|[[File:Spell_light_bullet.png|40x40px|link=Spark Bolt]] [[Spark Bolt]]
+|33||47||40
+|1|| || ||
+|
+| 6.66%
+|-
+|[[File:Spell_Swapper_projectile.png|40x40px|link=Swapper]] [[Swapper]]
+|33||47||40
+|1|| || ||
+|
+|6.66%
+|-
+|[[File:Spell_teleport_projectile.png|40x40px|link=Teleport Bolt]] [[Teleport Bolt]]
+|33||47||40
+|1|| || ||
+|
+|6.66%
+|-
+|[[File:Spell_slow_bullet.png|40x40px|link=Energy Orb]] [[Energy Orb]]
+|43||57||50
+|1|| ||1||1
+|
+|6.66%
+|-
+| [[File:Spell_fireworks.png|40x40px|link=Fireworks!]] [[Fireworks!]]
+|23||37||30
+| || ||1||
+|
+|6.66%
+|-
+|[[File:Spell_firebomb.png|40x40px|link=Firebomb]] [[Firebomb]]
+|63||77||70
+|1|| ||1||
+|
+|6.66%
+|-
+|[[File:Spell_missile.png|40x40px|link=Summon Missile]] [[Summon Missile]]
+|93||107||100
+|1|| ||2||
+|
+|6.66%
+|-
+| [[File:Spell_heal_bullet.png|40x40px|link=Healing Bolt]] [[Healing Bolt]]
+|53||67||60
+| || ||2||
+|
+|6.66%
+|-
+|[[File:Spell_glowing_bolt.png|40x40px|link=Pinpoint of Light]] [[Pinpoint of Light]]
+|83||97||90
+|2||  || ||
+|
+| 6.66%
+|-
+|[[File:Spell_bubbleshot.png|40x40px|link=Bubble Spark]] [[Bubble Spark]]
+|93||107|| 100
+| 1|| ||2 ||
+|
+|6.66%
+|-
+|[[File:Spell_spore_pod.png|40x40px|link=Prickly Spore Pod]] [[Prickly Spore Pod]]
+|93||107||100
+| 1|| ||2||
+|
+|6.66%
+|-
+|[[File:Spell_black_hole.png|40x40px|link=Black Hole]] [[Black Hole]]
+|113||127||120
+|2|| ||1||
+|
+|6.66%
+|-
+|[[File:Spell_buckshot.png|40x40px|link=Triplicate Bolt]] [[Triplicate Bolt]]
+|113||127||120
+| 2|| ||1||
+|
+| 6.66%
+|-
+|[[File:Spell_teleport_projectile_static.png|40x40px|link=Return]] [[Return]]
+|233||247||240
+| 5|| ||1||
+|
+|6.66%
+|-
+|[[File:Spell_rocket_tier_3.png|40x40px|link=Giant Magic Missile]] / [[File:Spell_rocket_tier_2.png|40x40px|link=Large Magic Missile]] / [[File:Spell_rocket.png|40x40px|link=Magic Missile]] [[Magic Missile]]
+|353|| 367|| 360
+|7||  || 2||
+|
+|6.66%
+|-
+|[[File:Spell_nuke.png|40x40px|link=Nuke]] [[Nuke]]
+|353||367||360
+|7|| ||2||
+|
+|6.66%
+|-
+|[[File:Spell_grenade_tier_3.png|40x40px|link=Giant Firebolt]] /  [[File:Spell_grenade_tier_2.png|40x40px|link=Large Firebolt]] / [[File:Spell_grenade.png|40x40px|link=Firebolt]] [[Firebolt]]
+|493||507||500
+|12|| || ||
+|
+|6.66%
+|-
+|[[File:Spell_black_hole_big.png|40x40px|link=Giga Black Hole]] [[Giga Black Hole]]
+|493||507||500
+|12|| || ||
+|
+|6.66%
+|-
+|[[File:Spell_infestation.png|40x40px|link=Infestation]] [[Infestation]]
+|593||607||600
+|13|| ||2||
+|
+|6.66%
+|-
+|[[File:Spell_arrow.png|40x40px|link=Arrow]] [[Arrow]]
+| 743||757 ||750
+|17|| ||1||
+|
+|6.66%
+|-
+|[[File:Spell_rubber_ball.png|40x40px|link=Bouncing Burst]] [[Bouncing Burst]]
+|743||757||750
+| 17 || ||1||
+|
+|6.66%
+|-
+|[[File:Spell_bouncy_orb.png|40x40px|link=Energy Sphere]] [[Energy Sphere]]
+|743 ||757||750
+|17 ||  ||1||
+|
+|6.66%
+|-
+|[[File:Spell_disc_bullet.png|40x40px|link=Disc Projectile]] [[Disc Projectile]]
+|743 ||757 ||750
+|17|| ||1 ||
+|
+| 6.66%
+|-
+|
+[[File:Spell_disc_bullet_big.png|40x40px|link=Giga Disc Projectile]] [[Giga Disc Projectile]]
+|293||307 ||300
+|7|| || ||
+|
+|6.66%
+|-
+|[[File:Spell_omega_disc_bullet.png|40x40px|link=Summon Omega Sawblade]] [[Summon Omega Sawblade]]
+|493|| 507 || 500
+|12|| || ||
+|
+| 6.66%
+|-
+|
+[[File:Spell_grenade_large.png|40x40px|link=Dropper Bolt]] [[Dropper Bolt]]
+| 493||507||500
+|12|| || ||
+|
+|6.66%
+|-
+|[[File:Spell worm.png|40x40px]] [[Worm Launcher]]
+|93
+|107
+|100
+|3
+|
+|
+|1
+|
+|6.66%
+|-
+|[[File:Spell_purple_explosion_field.png|40x40px|link=Glittering Field]] [[Glittering Field]]
+| ||  || 600
+|13 ||1 || 6||2
+|
+|100%
+|-
+|[[File:Spell_mist_alcohol.png|40x40px|link=Mist of Spirits]] [[Mist of Spirits]]
+| || ||100
+|3 || || ||1
+|
+|100%
+|-
+|[[File:Spell_mist_blood.png|40x40px|link=Blood Mist]] [[Blood Mist]]
+| ||  || 500
+|13||1||1||
+|
+|100%
+|-
+|[[File:Spell_mist_radioactive.png|40x40px|link=Toxic Mist]] [[Toxic Mist]]
+| ||  || 500
+|13||1|| 1||
+|
+|100%
+|-
+|[[File:Spell_mist_slime.png|40x40px|link=Slime Mist]] [[Slime Mist]]
+| || ||500
+|13||1|| 1||
+|
+|100%
+|-
+|[[File:Spell darkflame.png|40x40px|link=Path of Dark Flame]] [[Path of Dark Flame]]
+| || || 100
+|3|| || ||1
+|
+|100%
+|-
+|[[File:Spell_spiral_shot.png|40x40px|link=Spiral Shot]] [[Spiral Shot]]
+|  ||  || 100
+|3|| ||  ||1
+|
+|100%
+|-
+|[[File:Spell_thunderball.png|40x40px|link=Thunder Charge]] [[Thunder Charge]]
+|  || ||100
+|3|| || ||1
+|
+|100%
+|-
+|[[File:Spell_cursed_orb.png|40x40px|link=Cursed Sphere]] [[Cursed Sphere]]
+|  || ||120
+|3||1||4||2
+|
+|100%
+|-
+|[[File:Spell_bomb_holy.png|40x40px|link=Holy Bomb]] [[Holy Bomb]]
+| || ||170
+|3||1||4||
+|
+|100%
+|- 
+|[[File:Spell_bomb.png|40x40px|link=Bomb]] [[Bomb]]
+| || ||180
+|3||1||6||2
+|
+|100%
+|-
+|[[File:Spell_meteor.png|40x40px|link=Meteor]] [[Meteor]]
+| || ||200
+|3||1||5||
+|
+|100%
+|-
+|[[File:Spell_crumbling_earth.png|40x40px|link=Earthquake]] [[Earthquake]]
+| || ||30
+|3||1||1||2
+|
+|100%
+|-
+|[[File:Spell_megalaser.png|40x40px|link=Intense Concentrated Light]] [[Intense Concentrated Light]]
+| || ||32
+|4||3||3||
+|
+|100%
+|-
+|[[File:Spell_dynamite.png|40x40px|link=Dynamite]] [[Dynamite]]
+| || ||50
+|3||1|| ||
+|
+|100%
+|-
+|[[File:Spell_glitter_bomb.png|40x40px|link=Glitter Bomb]] [[Glitter Bomb]]
+| || ||50
+|3||1|| ||
+|
+|100%
+|-
+|[[File:Spell_death_cross_big.png|40x40px|link=Giga Death Cross]] [[Giga Death Cross]]
+| || ||50
+|3||1|| ||
+|
+|100%
+|-
+|[[File:Spell_death_cross.png|40x40px|link=Death Cross]] [[Death Cross]]
+| || ||68
+|2||1||2||
+|
+|100%
+|-
+|[[File:Spell_fireball.png|40x40px|link=Fireball]] [[Fireball]]
+| || ||60
+|3||1||2||2
+|
+|100%
+|-
+|[[File:Spell_pebble.png|40x40px|link=Summon Rock Spirit]] [[Summon Rock Spirit]]
+| ||  ||60
+|3||1||2 ||2
+|
+|100%
+|-
+|[[File:Spell_tentacle.png|40x40px|link=Tentacle]] [[Tentacle]]
+| || ||60
+|3||1||2||2
+|
+|100%
+|-
+|[[File:Spell_flamethrower.png|40x40px|link=Flamethrower]] [[Flamethrower]]
+| || ||80
+|3||1||1||
+|
+|100%
+|-
+|[[File:Spell_delayed_spell.png|40x40px|link=Delayed Spellcast]] [[Delayed Spellcast]]
+| || ||100
+|3|| || ||1
+|
+|100%
+|-
+|[[File:Spell_luminous_drill.png|40x40px|link=Luminous Drill]] [[Luminous Drill]]
+| || ||2
+|4||3||2||
+|
+|100%
+|-
+|[[File:Spell_freezing_gaze.png|40x40px|link=Freezing Gaze]] [[Freezing Gaze]]
+| || ||25
+|3||1|| ||1
+|
+|100%
+|-
+|[[File:Spell_teleport_projectile_short.png|40x40px|link=Small Teleport Bolt]] [[Small Teleport Bolt]]
+| || ||8
+|2||1|| ||
+|
+| 100%
+|-
+|[[File:Spell_super_teleport_cast.png|40x40px|link=Warp Cast]] [[Warp Cast]]
+| ||  || 5
+|3|| 2|| 1||
+|
+|100%
+|-
+|[[File:Spell_Teleport_cast.png|40x40px|link=Teleporting Cast]] [[Teleporting Cast]]
+| ||  || 2
+|9|| 5|| ||
+|
+|100%
+|-
+|[[File:Spell_long_distance_cast.png|40x40px|link=Long-Distance Cast]] [[Long-Distance Cast]]
+| || ||4
+| || ||1||1
+|
+|100%
+|-
+|[[File:Spell_wall_square.png|40x40px|link=Square Barrier]] / [[File:Spell_wall_vertical.png|40x40px|link=Vertical Barrier]] / [[File:Spell_wall_horizontal.png|40x40px|link=Horizontal Barrier]] [[Barrier]]
+| ||  ||3
+| 2||  ||  ||
+|1
+|100%
+|-
+|[[File:Spell_kantele_a.png|40x40px|link=Kantele]] [[Kantele]] / [[File:Spell_ocarina_a.png|40x40px|link=Huilu]] [[Huilu]] Note Spells
+| || ||2
+|4||3||2||
+|
+|100%
+|-
+| [[File:Spell_fire_blast.png|40x40px|link=Explosion of Brimstone]] [[Explosion of Brimstone]]
+| || ||0
+|3||1|| ||2
+|
+|100%
+|-
+|[[File:Spell_alcohol_blast.png|40x40px|link=Explosion of Spirits]] [[Explosion of Spirits]]
+| || ||0
+|3||1|| ||2
+|
+|100%
+|-
+|[[File:Spell_poison_blast.png|40x40px|link=Explosion of Poison]] [[Explosion of Poison]]
+| || ||0
+|3||1|| ||2
+|
+|100%
+|-
+|[[File:Spell_thunder_blast.png|40x40px|link=Explosion of Thunder]] [[Explosion of Thunder]]
+| || ||3
+|2|| || ||
+|1
+|100%
+|-
+|[[File:Spell_explosion_light.png|40x40px|link=Magical Explosion]] [[Magical Explosion]]
+| || ||0
+|3||1|| || 2
+|
+|100%
+|-
+|[[File:Spell_explosion.png|40x40px|link=Explosion]] [[Explosion]]
+| || ||0
+|3||1|| ||2
+|
+|100%
+|-
+|[[File:Spell_chainsaw.png|40x40px|link=Chainsaw]] [[Chainsaw]]
+| ||  ||1
+|1||1||2 || 1
+|
+|100%
+|-
+|[[File:Spell_soil.png|40x40px|link=Chunk of Soil]] [[Chunk of Soil]]
+| || ||1
+|1|| 1||2|| 1
+|
+| 100%
+|-
+|[[File:Spell_digger.png|40x40px|link=Digging Bolt]] [[Digging Bolt]]
+| || ||2
+|4||3||2||
+|
+|100%
+|-
+|[[File:Spell_powerdigger.png|40x40px|link=Digging Blast]] [[Digging Blast]]
+| || ||2
+|4|| 3||2||
+|
+|100%
+|-
+| [[File:Spell_bomb_cart.png|40x40px|link=Bomb Cart]] [[Bomb Cart]]
+| || ||420
+|13||1|| ||2
+|
+|100%
+|-
+|[[File:Spell_lance.png|40x40px|link=Glowing Lance]] [[Glowing Lance]]
+| || ||300
+|8||1||3||2
+|
+|100%
+|-
+|[[File:Spell_temporary_platform.png|40x40px|link=Summon Platform]] [[Summon Platform]]
+| || ||300
+|8 || 1||3||2
+|
+| 100%
+|-
+|
+[[File:Spell_temporary_wall.png|40x40px|link=Summon Wall]] [[Summon Wall]]
+| ||  || 300
+|8|| 1|| 3|| 2
+|
+|100%
+|-
+|[[File:Spell_acidshot.png|40x40px|link=Acid Ball]] [[Acid Ball]]
+| || ||330
+|8||1||4||2
+|
+|100%
+|-
+|[[File:Spell_slimeball.png|40x40px|link=Slimeball]] [[Slimeball]]
+| || ||330
+| 8||1||4||2
+|
+|100%
+|-
+|[[File:Spell expanding orb.png|40x40px]] [[Expanding Sphere]]
+|
+|
+|180
+|3
+|1
+|6
+|2
+|
+| 100%
+|-
+|[[File:Spell laser emitter.png|40x40px]] [[Plasma Beam]]
+|
+|
+|100
+|3
+|
+|
+|1
+|
+|100%
+|-
+|[[File:Spell laser emitter four.png|40x40px]] [[Plasma Beam Cross]]
+|
+|
+|100
+|3
+|
+|
+|1
+|
+|100%
+|-
+|[[File:Spell chain bolt.png|40x40px]] [[Chain Bolt]]
+|
+|
+|44
+|
+|1
+|4
+|
+|
+|100%
+|-
+|[[File:Spell laser emitter cutter.png|40x40px]] [[Plasma Cutter]]
+|
+|
+|60
+|3
+|1
+| 2
+|2
+|
+|100%
+|-
+|[[File:Spell bomb holy giga.png|40x40px]] [[Giga Holy Bomb]]
+|
+|
+|260
+|3
+|1
+|7
+|
+|
+|100%
+|-
+|[[File:Spell iceball.png|40x40px]] [[Iceball]]
+|
+|
+|60
+|3
+| 1
+|2
+|2
+|
+|100%
+|-
+|[[File:Spell black hole giga.png|40x40px]] [[Omega Black Hole]]
+|993
+|1007
+|1000
+| 23
+|
+|2
+|1
+|
+|6.66%
+|-
+|[[File:Spell_machinegun_bullet.png|40x40px]] [[BULLET???]]
+|
+|
+|50
+|3
+|1
+|
+|
+|
+|100%
+|-
