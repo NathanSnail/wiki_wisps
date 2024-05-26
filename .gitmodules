@@ -1,0 +1,3 @@
+[submodule "wisper"]
+	path = wisper
+	url = https://github.com/NathanSnail/wisper/
