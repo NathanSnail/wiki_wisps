@@ -35,3 +35,5 @@ while i < len(l):
 			low, high = int(parts[0]), int(parts[1])
 		print(low, high)
 		print("S:", compute(low, high, 100)[-1])
+		continue
+	print("dead line", line)
