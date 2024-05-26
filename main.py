@@ -1,4 +1,4 @@
-from wisper.core import compute
+from wisper.core import all, compute, inv
 
 text = open("src", "r").read()
 
@@ -31,9 +31,16 @@ while i < len(l):
 			high, low = int(parts[2]), int(parts[2])
 		else:
 			low, high = int(parts[0]), int(parts[1])
-		best = compute(low, high, 100)[-1]
-		print(best)
-		while line != "|":
+		best = compute(-high - 1, -low - 1, 100)[-1]
+		# print(best)
+		# print([inv[all[k]] for k, v in enumerate(best) if v > 0])
+		remap = [1, 3, 0, 4, 2, 5, 6]
+		remapped = [best[x] for x in remap]
+		# print(remapped)
+		t += f"\n|{low}||{high}||{parts[2]}||" + "||".join(
+			str(x) if x != 0 else " " for x in remapped
+		)
+		while "%" not in line:
 			i += 1
 			line = l[i]
 		continue
